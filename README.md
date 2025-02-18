@@ -9,12 +9,12 @@
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
-   cd your-project
+   git clone https://github.com/Thomas-is-dev/CheckExtSites.git
    npm i
 
 ## Start
 
+1. Launch App
+
     ```bash
     node server.js
-
